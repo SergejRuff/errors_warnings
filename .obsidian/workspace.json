@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "R/erros/Dataframe - subscript out of bounds.md",
+                "file": "Bash and Linux/errors/Copy (cp) directory to new directory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "R/erros/Dataframe - subscript out of bounds.md",
+                "file": "Bash and Linux/errors/Copy (cp) directory to new directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "R/erros/Dataframe - subscript out of bounds.md",
+                "file": "Bash and Linux/errors/Copy (cp) directory to new directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "R/erros/Dataframe - subscript out of bounds.md"
+                "file": "Bash and Linux/errors/Copy (cp) directory to new directory.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "2846939e5fba0513",
   "lastOpenFiles": [
-    "i, exact = exact.md",
+    "Bash and Linux/errors/forgetting ~ in path - No such file or directory.md",
+    "Bash and Linux/errors/Copy (cp) directory to new directory.md",
     "R/erros/Dataframe - subscript out of bounds.md",
+    "Bash and Linux/errors",
+    "Bash and Linux",
+    "i, exact = exact.md",
     "attachments/Pasted image 20240405224025.png",
     "python/erros",
     "python/warnings",
     "R/erros",
-    "Untitled",
     "R/warnings",
     "attachments",
     "python",
